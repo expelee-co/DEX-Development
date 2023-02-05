@@ -1,6 +1,7 @@
 We have developed this decentralized exchange (dex) for 8BitEARN, designed to provide a secure and efficient platform for buying, selling, and trading of their 8BitEARN token. The dex operates on blockchain technology, ensuring that all transactions are transparent and tamper-proof.
 
 You can have a look at the overall working of the DEX through this link https://prodex.app/
+
 We have also attached the Screenshots of the DEX below
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/104678268/216805689-d76ca43e-17b7-41c8-ada7-e8282ad0cda2.png)
